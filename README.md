@@ -31,21 +31,6 @@ Welcome to the Scroll Animation Web Project! This project demonstrates smooth an
 
 ## Screenshots
 
-## Project Structure
-
-scroll-animation-web-project/
-│
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-│ ├── images/
-│ │ ├── image1.jpg
-│ │ ├── image2.jpg
-│ │ └── ...
-│ └── ...
-└── README.md
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
